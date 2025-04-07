@@ -71,8 +71,5 @@ contract DonateCrypto {
 		Campanhas[id].Ativo = false;
 	}
 
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> fb4a48599aef0c017650819bacfdbd4a377923c2
+
