@@ -74,3 +74,5 @@ contract DonateCrypto {
 
 }
 
+
+//comandos git essencias: git add . , git commit -m 'descrição', git push
